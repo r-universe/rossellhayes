@@ -1,0 +1,34 @@
+[
+  {
+    "package": "crossmap",
+    "oncran": true
+  },
+  {
+    "package": "fauxnaif",
+    "oncran": true
+  },
+  {
+    "package": "fracture",
+    "oncran": true
+  },
+  {
+    "package": "incase",
+    "oncran": true
+  },
+  {
+    "package": "ipa",
+    "oncran": true
+  },
+  {
+    "package": "nombre",
+    "oncran": true
+  },
+  {
+    "package": "plu",
+    "oncran": true
+  },
+  {
+    "package": "twenty48",
+    "oncran": true
+  }
+]
