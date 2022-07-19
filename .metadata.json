@@ -1,5 +1,9 @@
 [
   {
+    "package": "and",
+    "oncran": true
+  },
+  {
     "package": "crossmap",
     "oncran": true
   },
