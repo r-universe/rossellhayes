@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "stringstatic",
+    "oncran": true
+  },
+  {
     "package": "twenty48",
     "oncran": true
   }

@@ -43,6 +43,11 @@
 	url = https://github.com/rossellhayes/plu
 	shallow = true
 	registered = true
+[submodule "stringstatic"]
+	path = stringstatic
+	url = https://github.com/rossellhayes/stringstatic
+	shallow = true
+	registered = true
 [submodule "twenty48"]
 	path = twenty48
 	url = https://github.com/rossellhayes/twenty48
