@@ -1,10 +1,6 @@
 [
   {
-    "package": "and",
-    "oncran": true
-  },
-  {
-    "package": "crossmap",
+    "package": "fracture",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "fracture",
+    "package": "ipa",
+    "oncran": true
+  },
+  {
+    "package": "plu",
     "oncran": true
   },
   {
@@ -20,15 +20,7 @@
     "oncran": true
   },
   {
-    "package": "ipa",
-    "oncran": true
-  },
-  {
-    "package": "nombre",
-    "oncran": true
-  },
-  {
-    "package": "plu",
+    "package": "crossmap",
     "oncran": true
   },
   {
@@ -37,6 +29,14 @@
   },
   {
     "package": "twenty48",
+    "oncran": true
+  },
+  {
+    "package": "and",
+    "oncran": true
+  },
+  {
+    "package": "nombre",
     "oncran": true
   }
 ]

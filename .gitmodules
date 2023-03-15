@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "and"]
-	path = and
-	url = https://github.com/rossellhayes/and
-	shallow = true
-	registered = true
-[submodule "crossmap"]
-	path = crossmap
-	url = https://github.com/rossellhayes/crossmap
+[submodule "fracture"]
+	path = fracture
+	url = https://github.com/rossellhayes/fracture
 	shallow = true
 	registered = true
 [submodule "fauxnaif"]
@@ -18,9 +13,14 @@
 	url = https://github.com/rossellhayes/fauxnaif
 	shallow = true
 	registered = true
-[submodule "fracture"]
-	path = fracture
-	url = https://github.com/rossellhayes/fracture
+[submodule "ipa"]
+	path = ipa
+	url = https://github.com/rossellhayes/ipa
+	shallow = true
+	registered = true
+[submodule "plu"]
+	path = plu
+	url = https://github.com/rossellhayes/plu
 	shallow = true
 	registered = true
 [submodule "incase"]
@@ -28,19 +28,9 @@
 	url = https://github.com/rossellhayes/incase
 	shallow = true
 	registered = true
-[submodule "ipa"]
-	path = ipa
-	url = https://github.com/rossellhayes/ipa
-	shallow = true
-	registered = true
-[submodule "nombre"]
-	path = nombre
-	url = https://github.com/rossellhayes/nombre
-	shallow = true
-	registered = true
-[submodule "plu"]
-	path = plu
-	url = https://github.com/rossellhayes/plu
+[submodule "crossmap"]
+	path = crossmap
+	url = https://github.com/rossellhayes/crossmap
 	shallow = true
 	registered = true
 [submodule "stringstatic"]
@@ -51,5 +41,15 @@
 [submodule "twenty48"]
 	path = twenty48
 	url = https://github.com/rossellhayes/twenty48
+	shallow = true
+	registered = true
+[submodule "and"]
+	path = and
+	url = https://github.com/rossellhayes/and
+	shallow = true
+	registered = true
+[submodule "nombre"]
+	path = nombre
+	url = https://github.com/rossellhayes/nombre
 	shallow = true
 	registered = true
