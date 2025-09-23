@@ -23,6 +23,9 @@
 [submodule "nombre"]
 	path = nombre
 	url = https://github.com/rossellhayes/nombre
+[submodule "player"]
+	path = player
+	url = https://github.com/rossellhayes/player
 [submodule "plu"]
 	path = plu
 	url = https://github.com/rossellhayes/plu
